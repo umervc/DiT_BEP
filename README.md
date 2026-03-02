@@ -1,4 +1,4 @@
-# DiT_BEP — Diffusion Transformers for Magnetic Field Modeling in Medium Frequency Transformers
+#Diffusion Transformers for Magnetic Field Modeling in Medium Frequency Transformers
 
 > **Official PyTorch Implementation** based on [Scalable Diffusion Models with Transformers (Peebles & Xie, 2022)](https://arxiv.org/abs/2212.09748), adapted for modeling magnetic field distribution in Medium Frequency Transformers (MFTs) as an alternative to Finite Element Methods (FEM).
 
