@@ -49,7 +49,7 @@ A general overview of the software workflow of the Diffusion Model for Image Gen
 ```bash
 git clone https://github.com/umervc/DiT_BEP.git
 cd DiT_BEP
-pip install torch lightning diffusers torchvision matplotlib
+pip install torch torchvision lightning diffusers timm accelerate matplotlib
 ```
 
 The VAE (`stabilityai/sd-vae-ft-ema`) will be downloaded automatically from HuggingFace on first run.
