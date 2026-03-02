@@ -10,7 +10,7 @@ This repository trains a **Diffusion Transformer (DiT)** to model the 2D magneti
 
 <!-- SUGGESTED VISUALS: Insert Figure 2 from the paper here (MFT structure + corresponding magnetic field distribution side by side) -->
 <!-- Example: ![MFT structure and magnetic field distribution](assets/fig2_mft_field.png) -->
-![MFT structure and magnetic field distribution](visuals/fig2_mft_field.png) -->
+![MFT structure and magnetic field distribution](visuals/fig2_mft_field.png) 
 ---
 
 ## Key Results
@@ -28,7 +28,7 @@ FEM baseline: ~16 seconds per image. DiT-XS generates in ~8 seconds (2× faster)
 <!-- SUGGESTED VISUALS: Insert Figure 7, 8, 9 from the paper here (MFT structure, ground truth field, DiT reconstruction) -->
 <!-- Example: -->
 <!-- ![MFT Structure](assets/fig7_structure.png) ![Ground Truth](assets/fig8_ground_truth.png) ![DiT Output](assets/fig9_reconstructed.png) -->
-
+![MFT structure, Ground truth field, DiT reconstruction](visuals/fig7_8_9.png)
 ---
 
 ## How It Works
